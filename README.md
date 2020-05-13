@@ -1,1 +1,2 @@
 # Deep-learning-HW4p2
+This is my code for the Kaggle Competition for the CMU-11785 Introduction to Deep Learning, the rank is 15/278. This is the end-to-end character-based network using a combination of Recurrent Neural Networks (RNNs) / Convolutional Neural Networks (CNNs) and Dense Networks for speech to text transcription. It can transcribe a given speech utterance to its corresponding transcript.
